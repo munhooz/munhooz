@@ -4,8 +4,8 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sempre em busca de conhecimento para oficialmente me tornar um programador Front-end.
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na <a href="https://newtonpaiva.br/">Newton Paiva</a>.
-- 💼 &nbsp; Trabalhando como **Coordenador de Promoção** na <a href="https://cubo333.com.br/">Cubo333</a>
+- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/">NEWTON PAIVA</a>.
+- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/">CUBO333</a>
 - 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -23,7 +23,7 @@
   ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 **Ferramentas de Desenvolvimento**
