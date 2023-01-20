@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/">Newton Paiva</a>.
 - 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/">Cubo333</a>
 - 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
-- <img align="right" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
+- <img align="right" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
