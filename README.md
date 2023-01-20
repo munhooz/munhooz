@@ -4,8 +4,8 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sempre em busca de conhecimento para oficialmente me tornar um programador Front-end.
-- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/">NEWTON PAIVA</a>.
-- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/">CUBO333</a>
+- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/">Newton Paiva</a>.
+- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/">Cubo333</a>
 - 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -44,6 +44,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-munhooz/)](https://www.linkedin.com/in/matheus-munhooz/)
 [![Gmail Badge](https://img.shields.io/badge/-munhoz99.br@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munhoz99.br@gmail.com)](mailto:munhoz99.br@gmail.com)
 [![GitHub munhooz]( https://img.shields.io/github/followers/munhooz?label=follow&style=social)](munhooz)
