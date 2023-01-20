@@ -36,8 +36,7 @@
 
 <a href="https://github.com/munhooz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munhooz&theme=radical&show_icons=true" />
-</a>
-<img align="right" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
+</a><img align="right" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
 
 <br/>
 
