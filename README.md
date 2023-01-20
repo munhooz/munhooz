@@ -9,8 +9,8 @@
 - 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**  <img align="right" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
+<img align="right" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2c88940458017e592e7596265d47793e3507f0e&rid=giphy.gif&ct=g" />
+**Aplicações e Dados** 
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
