@@ -44,6 +44,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Matheus Munhoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-munhoz99.br@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:munhoz99.br@gmail.com)](mailto:munhoz99.br@gmail.com)
 [![GitHub munhooz]( https://img.shields.io/github/followers/munhooz?label=follow&style=social)](munhooz)
