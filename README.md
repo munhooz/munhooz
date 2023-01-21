@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/munhooz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munhooz&theme=gruvbox&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munhooz&theme=tokyonight&show_icons=true" />
 </a>
 
 <br/>
