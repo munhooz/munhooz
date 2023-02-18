@@ -4,8 +4,8 @@
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Sempre em busca de conhecimento para oficialmente me tornar um programador Front-end.
-- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/" _blank>Newton Paiva</a>.
-- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/" _blank>Cubo333</a>
+- 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.
+- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/" target="_blank">Cubo333</a>
 - 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
