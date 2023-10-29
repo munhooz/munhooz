@@ -3,10 +3,10 @@
 
 <h3> :man_technologist: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Sempre em busca de conhecimento para oficialmente me tornar um programador Front-end.
+- 🤔 &nbsp; Sempre em busca de conhecimento!.
 - 🎓 &nbsp; Formado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.
-- 💼 &nbsp; Trabalhando como **COORDENADOR DE PROMOÇÃO** na <a href="https://cubo333.com.br/" target="_blank">Cubo333</a>
-- 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em Vue.js.
+- 💼 &nbsp; Trabalhando como **DESENVOLVEDOR FRONT-END** na <a href="https://cubo333.com.br/" target="_blank">Cubo333</a>
+- 🌱 &nbsp; Atualmente estou estudando para aperfeiçoar o meu conhecimento em React.js.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -16,8 +16,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
