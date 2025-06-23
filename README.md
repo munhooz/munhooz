@@ -6,7 +6,7 @@
 
 - 🚀 Sempre em busca de novos aprendizados e desafios!
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela [Newton Paiva](https://newtonpaiva.br/)
-- 💼 Atuando como **Desenvolvedor Front-End Júnior** na [Cubo333](https://cubo333.com.br/)
+- 💼 Atuando como **Desenvolvedor Front-End Júnior** no [Passagens Imperdíveis](https://www.passagensimperdiveis.com.br/)
 - 🎯 Noções de **UI/UX Design** com foco em interpretação de layouts e sugestões de melhorias
 
 ---
